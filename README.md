@@ -1,1 +1,2 @@
-# lifeway_health_care_web_app
+# LifeWay Health Care 
+A web app for a hospital built using Bootstrap.
